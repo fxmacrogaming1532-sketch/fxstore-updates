@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "5.4.0",
+    "version":  "5.5.0",
     "mandatory":  false,
-    "url":  "https://fxmacrogaming1532-sketch.github.io/fxstore-updates/stable/fxstore-5.4.0.zip",
-    "sha256":  "1f8857d714e212b573dc5adc04803bea704d0f68c7c562260d470446f1bd18d9",
+    "url":  "https://fxmacrogaming1532-sketch.github.io/fxstore-updates/stable/fxstore-5.5.0.zip",
+    "sha256":  "6d7acceaf8c3dd178308bb89226471117919dd1dd773906074578401bac8d03c",
     "notes":  "",
     "entryExe":  "FX STORE.exe",
     "launchArgs":  ""
