@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "5.8.3",
+    "version":  "5.8.4",
     "mandatory":  false,
-    "url":  "https://fxmacrogaming1532-sketch.github.io/fxstore-updates/stable/fxstore-5.8.3.zip",
-    "sha256":  "3ac6dd7deac8bcac042511546f4397dc0097be501c7c7be77f1a6e0f5bded324",
-    "notes":  "Corrige atualização presa em versão antiga por cache local de reseller-mode.",
+    "url":  "https://fxmacrogaming1532-sketch.github.io/fxstore-updates/stable/fxstore-5.8.4.zip",
+    "sha256":  "d6c12922ee73389c96c99810754ce4ea53e0778702437303c015378ffa08abbf",
+    "notes":  "Corrige atualizacao presa em versao antiga por cache local e publica EXE protegido com .NET Reactor Native EXE.",
     "entryExe":  "FX STORE.exe",
     "launchArgs":  ""
 }
