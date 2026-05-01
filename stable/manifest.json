@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "5.8.4",
+    "version":  "5.8.5",
     "mandatory":  false,
-    "url":  "https://fxmacrogaming1532-sketch.github.io/fxstore-updates/stable/fxstore-5.8.4.zip",
-    "sha256":  "d6c12922ee73389c96c99810754ce4ea53e0778702437303c015378ffa08abbf",
-    "notes":  "Corrige atualizacao presa em versao antiga por cache local e publica EXE protegido com .NET Reactor Native EXE.",
+    "url":  "https://fxmacrogaming1532-sketch.github.io/fxstore-updates/stable/fxstore-5.8.5.zip",
+    "sha256":  "c1165a9a3d1b4881939c9efb2fb62b1357c44d2063e09edae2d5c3b6f09e31c5",
+    "notes":  "Corrige captura e uso do scroll do mouse como tecla de atalho, incluindo WheelUp/WheelDown no toggle, e publica EXE protegido com .NET Reactor Native EXE.",
     "entryExe":  "FX STORE.exe",
     "launchArgs":  ""
 }
