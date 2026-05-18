@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "5.8.6",
+    "version":  "5.8.7",
     "mandatory":  false,
-    "url":  "https://fxmacrogaming1532-sketch.github.io/fxstore-updates/stable/fxstore-5.8.6.zip",
-    "sha256":  "b0e88958ac34cd94f8ddf1aaf3774c42633e7953f4eb77cbdf09d03ae6f3f1f3",
-    "notes":  "Corrige captura de scroll WheelUp/WheelDown no gerenciador de atalhos dos botões e publica EXE protegido com .NET Reactor Native EXE.",
+    "url":  "https://fxmacrogaming1532-sketch.github.io/fxstore-updates/stable/fxstore-5.8.7.zip",
+    "sha256":  "7863fe677394192ba410fb4fb42fa4aaf7183e2c7992e8fc0f5a327c438ed34e",
+    "notes":  "Corrige FOV visual em tela cheia/resolução esticada, adiciona ajuste de recoil horizontal e preserva configs do cliente durante atualização.",
     "entryExe":  "FX STORE.exe",
     "launchArgs":  ""
 }
