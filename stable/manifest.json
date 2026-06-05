@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "5.8.8",
+    "version":  "5.8.9",
     "mandatory":  false,
-    "url":  "https://fxmacrogaming1532-sketch.github.io/fxstore-updates/stable/fxstore-5.8.8.zip",
-    "sha256":  "68126fbd7f21bcf83aa1dfb6668670367164ebc5fb8b7b5ef2250ad6cd3b9614",
-    "notes":  "Correção no launcher para instalar automaticamente o Microsoft Edge WebView2 Runtime quando estiver ausente ou incompatível. Ajuste preventivo de anti-drift da mira após movimentos rápidos do mouse.",
+    "url":  "https://fxmacrogaming1532-sketch.github.io/fxstore-updates/stable/fxstore-5.8.9.zip",
+    "sha256":  "43e46662930c68c035f53af6ad197d0358199ea68888db5a5d25f7ebdff72260",
+    "notes":  "Correção definitiva do launcher: WebView2 Runtime é instalado automaticamente quando ausente ou incompatível. Adicionado reparo automático para substituir launcher antigo após atualização do app.",
     "entryExe":  "FX STORE.exe",
     "launchArgs":  ""
 }
