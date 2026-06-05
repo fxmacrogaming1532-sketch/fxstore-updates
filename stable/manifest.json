@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "5.8.7",
+    "version":  "5.8.8",
     "mandatory":  false,
-    "url":  "https://fxmacrogaming1532-sketch.github.io/fxstore-updates/stable/fxstore-5.8.7.zip",
-    "sha256":  "7863fe677394192ba410fb4fb42fa4aaf7183e2c7992e8fc0f5a327c438ed34e",
-    "notes":  "Corrige FOV visual em tela cheia/resolução esticada, adiciona ajuste de recoil horizontal e preserva configs do cliente durante atualização.",
+    "url":  "https://fxmacrogaming1532-sketch.github.io/fxstore-updates/stable/fxstore-5.8.8.zip",
+    "sha256":  "68126fbd7f21bcf83aa1dfb6668670367164ebc5fb8b7b5ef2250ad6cd3b9614",
+    "notes":  "Correção no launcher para instalar automaticamente o Microsoft Edge WebView2 Runtime quando estiver ausente ou incompatível. Ajuste preventivo de anti-drift da mira após movimentos rápidos do mouse.",
     "entryExe":  "FX STORE.exe",
     "launchArgs":  ""
 }
