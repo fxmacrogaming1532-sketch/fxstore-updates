@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "5.8.9",
-    "mandatory":  false,
-    "url":  "https://fxmacrogaming1532-sketch.github.io/fxstore-updates/stable/fxstore-5.8.9.zip",
-    "sha256":  "43e46662930c68c035f53af6ad197d0358199ea68888db5a5d25f7ebdff72260",
-    "notes":  "Correção definitiva do launcher: WebView2 Runtime é instalado automaticamente quando ausente ou incompatível. Adicionado reparo automático para substituir launcher antigo após atualização do app.",
+    "version":  "5.8.10",
+    "mandatory":  true,
+    "url":  "https://fxmacrogaming1532-sketch.github.io/fxstore-updates/stable/fxstore-5.8.10.zip",
+    "sha256":  "02ee678ad147fbbd198a8ed1af276b0112c7e8359aa4c0e87e9ac6c04e2f58f5",
+    "notes":  "Correção de movimento preso/andando sozinho; melhorias no watchdog de WASD; ajuste no Aimbuff para não gerar movimento autônomo.",
     "entryExe":  "FX STORE.exe",
     "launchArgs":  ""
 }
