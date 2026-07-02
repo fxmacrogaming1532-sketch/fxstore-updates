@@ -1,7 +1,7 @@
 ﻿{
     "version":  "5.8.11",
     "mandatory":  true,
-    "url":  "https://fxmacrogaming1532-sketch.github.io/fxstore-updates/stable/fxstore-5.8.11.zip",
+    "url":  "https://raw.githubusercontent.com/fxmacrogaming1532-sketch/fxstore-updates/b6a49953c0c5f9a7ac756688272a8e328f89ca9b/stable/fxstore-5.8.11.zip",
     "sha256":  "90b92d5bde3d51e0b730e6b9718a2d26269a9b7b0857e51feede5b95149e1481",
     "notes":  "Correção de compatibilidade com teclados magnéticos/8000Hz. Ajustado o watchdog de movimento para não soltar WASD indevidamente ao usar Shift ou movimentos rápidos. Melhor estabilidade do movimento em modo Interception.",
     "entryExe":  "FX STORE.exe",
