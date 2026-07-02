@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "5.8.10",
+    "version":  "5.8.11",
     "mandatory":  true,
-    "url":  "https://fxmacrogaming1532-sketch.github.io/fxstore-updates/stable/fxstore-5.8.10.zip",
-    "sha256":  "02ee678ad147fbbd198a8ed1af276b0112c7e8359aa4c0e87e9ac6c04e2f58f5",
-    "notes":  "Correção de movimento preso/andando sozinho; melhorias no watchdog de WASD; ajuste no Aimbuff para não gerar movimento autônomo.",
+    "url":  "https://fxmacrogaming1532-sketch.github.io/fxstore-updates/stable/fxstore-5.8.11.zip",
+    "sha256":  "90b92d5bde3d51e0b730e6b9718a2d26269a9b7b0857e51feede5b95149e1481",
+    "notes":  "Correção de compatibilidade com teclados magnéticos/8000Hz. Ajustado o watchdog de movimento para não soltar WASD indevidamente ao usar Shift ou movimentos rápidos. Melhor estabilidade do movimento em modo Interception.",
     "entryExe":  "FX STORE.exe",
     "launchArgs":  ""
 }
